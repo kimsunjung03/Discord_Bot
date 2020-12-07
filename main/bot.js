@@ -20,5 +20,5 @@ client.on('message', msg => {
   }
 });
  
-client.login('Nzg1NDQwMzk3NTM1MDg0NTY1.X834Xw.OwV-qU_NDgvNmyxX8KxaQFXUjro');
+client.login('Nzg1NDQwMzk3NTM1MDg0NTY1.X834Xw.gpHSfTSf6WLakFS860nMQ8zyVCA');
  
